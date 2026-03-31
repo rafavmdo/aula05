@@ -23,7 +23,7 @@ public static class Exercicio7
         {
             if (idade > 67 || peso < 60)
             {
-                
+                Console.WriteLine("Você não atende os requisitos para prosseguir à doação.");
             }
             else
             {

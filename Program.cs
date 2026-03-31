@@ -8,4 +8,4 @@
 //Exercicio7.Executar();
 //Exercicio8.Executar();
 //Exercicio9.Executar();
-// Exercicio10.Executar();
+//Exercicio10.Executar();

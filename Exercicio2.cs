@@ -8,18 +8,18 @@ public static class Exercicio2
     {
         string letra;
 
-            Console.WriteLine("Digite uma letra: ");
-            letra = Console.ReadLine()!;
+        Console.WriteLine("Digite uma letra: ");
+        letra = Console.ReadLine()!.ToLower();
 
-            if (letra == "a" || letra == "e" || letra == "i" || letra == "o" || letra == "u")
-            { 
-                Console.WriteLine($"A letra {letra} é VOGAL");
-            }
-             
-            else
-            {
-                Console.WriteLine($"A letra {letra} é CONSOANTE"); 
-            }
+        if (letra == "a" || letra == "e" || letra == "i" || letra == "o" || letra == "u")
+        {
+            Console.WriteLine($"A letra {letra} é VOGAL");
+        }
+
+        else
+        {
+            Console.WriteLine($"A letra {letra} é CONSOANTE");
+        }
 
     }
 
