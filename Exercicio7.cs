@@ -4,8 +4,6 @@
 Faça um aplicativo que pergunte a idade de uma pessoa e seu peso e diga se ela pode
 doar sangue ou não; caso não possa, diga o(s) motivo(s). */
 
-
-
 public static class Exercicio7
 {
     public static void Executar()
